@@ -1,0 +1,39 @@
+.bg-image{
+    background-image: url(https://ik.imagekit.io/4z8covdo9/Full%20stack/todolistbg.png?updatedAt=1700761069523);
+    height: 800px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.heading{
+    color: white;
+    padding-top: 30px;
+    font-family: "Poppins", sans-serif;
+}
+
+.heading2{
+    color:white;
+    padding-top: 10px;
+    font-family: "Poppins", sans-serif;
+}
+
+.btn{
+    font-family: "Poppins", sans-serif;
+    color: white;
+    background-color:orange;
+    padding: 10px 20px;
+    font-size: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 3px;
+    border-right-color:black ;
+    border-bottom-color:black ;
+    margin-top:30px ;
+}
+
+.end{
+    font-family: "Poppins", sans-serif;
+    text-decoration: underline;
+    color: white;
+}
